@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="filter_node" type="filter_node" name="filter_node"  output="screen">
+  </node>
+</launch>
